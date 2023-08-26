@@ -7,7 +7,7 @@ Utilisation de reflets pour créer un effet hologramme. À intégrer dans un pro
 3. "Blackout box", construction d'une boîte sombre avec une surface réfléchissante (morceau de verre, plastique) placée en angle. Contrairement à la première méthode, l'animation n'a pas besoin d'être dédoublé. L'écran est déposé sur le dessus de la boîte.
 ![Hologramme](https://i.ytimg.com/vi/QPM1LwEzzwU/maxresdefault.jpg)
 Video: https://youtu.be/BtzIH6g8lnw?si=lQx9NOabE9QppocV&t=250
-### Préférences
+### Préférence
 La méthode du "blackout box" crée un design plus propre car l'écran qui joue l'animation est caché, et elle offre plus de flexiblité point de vue l'animation qui peut être jouer vue l'absence du besoin de dédoublée l'image projeté. 
 
 ### Conclusion
