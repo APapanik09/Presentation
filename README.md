@@ -32,7 +32,7 @@ Il faudrait prendre des vidéos (en loop sans couture) de différents environnem
 https://youtu.be/avJDR0qeUR8?si=N7OxWLXbMc8DJcFa 
 
 ### Sketch de l'installation
-![Sketch](../sketch.png) 
+![Sketch](sketch.png) 
 
 
  
