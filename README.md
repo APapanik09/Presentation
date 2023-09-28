@@ -28,10 +28,11 @@ Utilisation de reflets pour créer un effet hologramme. À intégrer dans un pro
 https://youtu.be/QPM1LwEzzwU?si=iIzw8-AndBHVeson
 
 ## Explications: Intempéries
-Il faudrait prendre des vidéos (en loop sans couture) de différents environnements extérieur représentatives des saisons (automne, hiver). Après avec After Effects, j'apposerai par-dessus des effets réalistes d'intempéries. Ça serait ce vidéo en transparence qui serait directement affecté par les mouvements du spectateur, en style simulation procédurale. 
+Il faudrait prendre des vidéos (en loop sans couture) de différents environnements extérieur représentatives des saisons (automne, hiver). Après avec After Effects, j'apposerai par-dessus des effets réalistes d'intempéries. Ça serait ce vidéo en transparence qui serait directement affecté par les mouvements du spectateur, en style simulation procédurale. <br>
+https://youtu.be/avJDR0qeUR8?si=N7OxWLXbMc8DJcFa 
 
 ### Sketch de l'installation
-![Sketch]() 
+![Sketch](sketch.png) 
 
 
  
